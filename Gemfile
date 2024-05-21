@@ -74,3 +74,5 @@ gem "faker", "~> 3.3"
 gem "will_paginate", "3.3.1"
 
 gem "bootstrap-will_paginate", "1.0.0"
+
+gem "rails-controller-testing", "~> 1.0"
